@@ -1,0 +1,15 @@
+
+
+.moves {
+    padding: 0 20px;
+}
+
+.moves h5 {
+    color:#dc3545;
+}
+
+.move-list li{
+    padding: 10px;
+    box-shadow: 0px 1px #14242f
+
+}

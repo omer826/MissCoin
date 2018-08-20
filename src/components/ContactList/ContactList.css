@@ -1,0 +1,35 @@
+
+
+.contact-list  {
+    margin: 0 auto;
+}
+  
+.contact-list li {
+    padding: .5rem 1rem;
+    font-size: 1.2rem;
+    box-shadow: 0px 1px #14242f
+}
+.contact-list a {
+    color:white;
+    transition: all 0.3s;
+}
+.contact-list a:hover {
+    font-size: 1.3rem;
+}
+
+.ctrl-btn {
+    position: sticky;
+    align-self: flex-end;
+    top: 90%;
+    margin: 0 1rem 0;
+    padding: 0px;
+    width: 45px;
+}
+.ctrl-btn a {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.5rem;
+    padding: .5rem;
+}
